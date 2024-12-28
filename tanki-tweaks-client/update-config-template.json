@@ -1,0 +1,9 @@
+{
+    "updateSource": {
+        "type": 0,
+        "host": "https://update.electronjs.org",
+        "repo": "tettov/tanki-tweaks-client"
+    },
+    "updateInterval": "1 hour",
+    "notifyUser": false
+}
